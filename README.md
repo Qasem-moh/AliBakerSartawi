@@ -9,3 +9,7 @@
 ### It takes art to write some code,
 
 ![intertwined](./intertwined.jpg)
+
+![intertwined](./intertwined2.jpg)
+
+![intertwined](./intertwined3.jpg)
