@@ -1,5 +1,5 @@
 ```javascript
-// Keep calm and enable night mode 🌙
+// Keep calm and enable dark mode 🌙
 ```
 ---
 
