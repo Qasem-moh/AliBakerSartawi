@@ -1,4 +1,4 @@
-## 🌙 This isn't a banana, but merely a reminder for you to enable night-mode
+### Keep calm and enable night mode 🌙 
 
 <!--
 **AliBakerSartawi/AliBakerSartawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
