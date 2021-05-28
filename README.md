@@ -10,6 +10,6 @@
 
 ![intertwined](./intertwined.jpg)
 
-![intertwined](./intertwined2.jpg)
+![intertwined](./intertwined2.png)
 
-![intertwined](./intertwined3.jpg)
+![intertwined](./intertwined3.png)
