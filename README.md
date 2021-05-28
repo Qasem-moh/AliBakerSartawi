@@ -13,8 +13,8 @@
 
 ```javascript
 /* 
-Romour has it that running the following code
-results in 200% increase in your CPU's performance
+Ancient philosophers have deduced that running the following
+code results in 237% increase in your CPU's performance
 */
 
 (function coffeeRefill() {
