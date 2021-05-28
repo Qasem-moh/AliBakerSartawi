@@ -9,6 +9,11 @@
 ---
 
 ```javascript
+/* 
+Romour has it that running the following code
+results in 200% increase in your CPU's performance
+*/
+
 (function coffeeRefill() {
     console.log('😢 debugging 😢')
     coffeeRefill()
