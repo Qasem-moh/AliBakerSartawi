@@ -2,7 +2,7 @@
 
 <!-- [![stats](https://github-readme-stats.vercel.app/api?username=alibakersartawi&theme=dark&show_icons=true)](https://github.com/alibakersartawi) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibakersartawi&layout=compact&langs_count=10%title_color=0CCD58&text_color=0CCD58)](https://github.com/alibakersartawi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibakersartawi&layout=compact&langs_count=10%title_color=0CCD58&text_color=0CCD58&bg_color=0C0C0C)](https://github.com/alibakersartawi)
 
 <!-- 
 title_color - Card's title color (hex color)
