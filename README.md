@@ -8,14 +8,12 @@
 
 ---
 
-It takes a bit of art to write some code,
-
-and it takes a bit of code to render some art...
-
-Which came first, the path or the road?
-
-What matters most, the end or the start?
-
+```javascript
+(function coffeeRefill() {
+    console.log(':cry: debugging :cry:')
+    coffeeRefill()
+})()
+```
 ---
 
 ![intertwined](./intertwined.jpg)
