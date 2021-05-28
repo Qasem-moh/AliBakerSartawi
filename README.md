@@ -1,8 +1,8 @@
 ### Keep calm and enable night mode 🌙 
 
-[![stats](https://github-readme-stats.vercel.app/api?username=AliBakerSartawi&theme=dark&show_icons=true)](https://github.com/AliBakerSartawi)
+<!-- [![stats](https://github-readme-stats.vercel.app/api?username=alibakersartawi&theme=dark&show_icons=true)](https://github.com/alibakersartawi) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibakersartawi)](https://github.com/alibakersartawi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibakersartawi&theme=dark&show_icons=true)](https://github.com/alibakersartawi)
 
 <!--
 **AliBakerSartawi/AliBakerSartawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
