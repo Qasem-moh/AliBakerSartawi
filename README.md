@@ -7,14 +7,16 @@
 
 ```javascript
 /* 
-Ancient philosophers have deduced that running the following
-code results in 237% increase in your CPU's performance
+A programmer never gets bored
 */
 
-(function coffeeRefill() {
-    console.log('😢 debugging 😢')
-    coffeeRefill()
-})()
+function name(x, y, z) {
+    return x + y + z
+}
+
+const letters = [((+[![]])+[])[1], (![] +[])[2], (+("1e309")+[])[3]]
+
+console.log(name(...letters))
 ```
 ---
 
