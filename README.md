@@ -17,4 +17,4 @@ console.log(name(...letters))
 ```
 ---
 
-<img align="right" src="./intertwined.jpg" alt="Intertwined" />
+<img align="right" src="./intertwined.jpg" alt="Intertwined" height="100px"/>
