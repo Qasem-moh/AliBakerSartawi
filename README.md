@@ -17,4 +17,4 @@ console.log(name(...letters))
 ```
 ---
 
-![intertwined](./intertwined.jpg)
+<img align="right" src="./intertwined.jpg" alt="Intertwined" />
