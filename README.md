@@ -3,12 +3,10 @@
 ---
 
 ```javascript
-for (var i = 0; i < 3; i++) {
-    
-    const log = () => {
-        console.log(i)
-    }
-    
-    setTimeout(log, 100);
-}
+/*
+    The ship has sailed and the winds have bailed,
+    a promise deep nested from a vow long ago...
+    All will and resolve downpoured and hailed,
+    a cascade of nourishment shall merrily flow...
+*/
 ```
