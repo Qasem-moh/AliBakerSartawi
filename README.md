@@ -12,7 +12,3 @@ for (var i = 0; i < 3; i++) {
     setTimeout(log, 100);
 }
 ```
-
----
-
-![wassup](./intertwined.jpg)
